@@ -13,7 +13,7 @@ Virtualization:  (VMware, VirtualBox)
 IaC:             (Terraform, Ansible, CloudFormation)
 Monitoring:      (Prometheus, Grafana, ELK)
 ```
-<hr>
+---
 
 ![terraform-logo.png](terraform-logo.png)
 
